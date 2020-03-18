@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace YouSubtle
+namespace Decova
 {
 	public class Exception_UnintendedExecutionPath : Exception
 	{
